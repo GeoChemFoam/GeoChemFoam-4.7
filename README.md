@@ -4,7 +4,7 @@ This is GeoChemFoam, an OpenFOAM-based package developed to perform reactive mul
 
 ######
 
-This is version 4.6 
+This is version 4.7 
 
 ######
 Instalation and running instruction can be find in the user guide in the doc folder
@@ -31,8 +31,15 @@ Patsoukis-Dimou, A. and Maes, J." Volume-Of-Fluid Simulation of Gas Dissolution 
  
 Maes, J. and Menke, H. P. "A Bespoke OpenFOAM Toolbox for Multiphysics Flow Simulations in Pore Structures", 17th International Conference on Flow Dynamics (ICFD2020), Oct 2020.https://www.researchgate.net/publication/347217654_A_Bespoke_OpenFOAM_Toolbox_for_Multiphysics_Flow_Simulations_in_Pore_Structures 
 
-Maes, J. and Menke, H. P. "GeoChemFoam: GeoChemFoam: Operator Splitting based time-stepping for efficient Volume-Of-Fluid simulation of capillary-dominated two-phase flow", arXiv:2103.03579
+Maes, J. and Menke, H. P. "GeoChemFoam: Direct Modelling of Multiphase Reactive Transport in Real Pore Geometries with Equilibrium Reactions", Transport in Porous Media, 139, pages 271–299. (2021) https://link.springer.com/article/10.1007/s11242-021-01661-8#:~:text=GeoChemFoam%20is%20an%20open%2Dsource,reactive%20transport%20with%20mineral%20dissolution. 
 
-Maes, J. and Menke, H. P. "GeoChemFoam: Operator Splitting based time-stepping for efficient Volume-Of-Fluid simulation of capillary-dominated two-phase flow", arXiv:2105:10576, 2021
+Maes, J. and Menke, H. P. "GeoChemFoam: Direct modelling of flow and heat transfer in micro-CT images of porous media", Springer Heat and Mass Transfer (2022). https://link.springer.com/article/10.1007/s00231-022-03221-2
+
+Maes, J., Soulaine, C. and Menke, H. P. "Improved Volume-of-Solid formulations for micro-continuum simulation of mineral dissolution at the pore-scale", Frontier in Eart Science (2022)
+ 
+Maes, J. and Menke, H. P. "GeoChemFoam: Operator Splitting based time-stepping for efficient Volume-Of-Fluid simulation of capillary-dominated two-phase flow", arXiv:2103.03579
+
+
+
 
 
