@@ -25,7 +25,7 @@ kf=1e12
 # Load user environment variables
 source ~/.bashrc
 
-source $HOME/works/GeoChemFoam-dev/etc/bashrc
+source $HOME/works/GeoChemFoam-4.7/etc/bashrc
 
 set -e
 

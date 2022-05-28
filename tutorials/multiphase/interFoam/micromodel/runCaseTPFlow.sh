@@ -23,7 +23,7 @@ ift=0.03
 
 #### END OF USER INPUT #######################################################
 
-source $HOME/works/GeoChemFoam-dev/etc/bashrc
+source $HOME/works/GeoChemFoam-4.7/etc/bashrc
 
 set -e
 

@@ -5,7 +5,7 @@ source ~/.bashrc
 
 NP=24
 
-source $HOME/works/GeoChemFoam-dev/etc/bashrc
+source $HOME/works/GeoChemFoam-4.7/etc/bashrc
 
 source $OF4X_DIR/OpenFOAM-4.x/etc/bashrc WM_LABEL_SIZE=64 FOAMY_HEX_MESH=yes
 
